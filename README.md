@@ -1,6 +1,6 @@
 # APLICACIONES DISTRIBUIDAS CLIENTE SERVIDOR SOBRE TCP/IP USANDO TECNOLOGÍA RMI
 
-Proceso de construcción de una aplicación cliente-servidor distribuida para calcular el IMC utilizando Java RMI y la librería LipeRMI,.
+Proceso de construcción de una aplicación cliente-servidor distribuida para calcular el IMC utilizando Java RMI y la librería LipeRMI.
 
 ## Complementos
 
