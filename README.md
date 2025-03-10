@@ -5,7 +5,7 @@ Proceso de construcción de una aplicación cliente-servidor distribuida para ca
 ## Complementos
 
 - [Documento](https://drive.google.com/file/d/1e5Hf-ddVPudjYHrXK3MoZ6ujW2ia-Pph/view?usp=sharing)
-- [Video]()
+- [Video](https://drive.google.com/file/d/1wQtOH9E4hogi7QtyXhQRmvHdfWidNf59/view?usp=sharing)
 
 ## Estudiante
 
